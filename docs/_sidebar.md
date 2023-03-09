@@ -1,6 +1,6 @@
-- Getting Started
-  - [Getting Ready for Class](01_getting_ready_for_class.md)
-  - [Getting Started](02_getting_started.md)
+- Starten
+  - [Maak je klaar voor de klas](01_getting_ready_for_class.md)
+  - [Starten](02_getting_started.md)
   - [GitHub Flow](03_github_flow.md)
 
 - Project 1: Caption This
